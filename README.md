@@ -72,8 +72,11 @@ into past data and you can create dashboards via Kibana.
 ```
 
 ## Architecture  
+<div align="center">
+
 [![CyAnnuaire Architecture][product-scheme]](https://github.com/tahtaciburak/CyAnnuaire)
 
+</div>
 Handling tweet data requires a scalable architecture with cutting edge big data tools due to the concerns of big data, it's volume, velocity, variety needs a scalable architecture to live seamlessly.
 
 Here's why we use:
@@ -87,6 +90,14 @@ Here's why we use:
 * [spaCy](https://spacy.io/)
 * [tunga](https://pypi.org/project/tunga/)
 
+
+## Screenshots
+
+<div align="center">
+
+[![CyAnnuaire Screenshot][product-ss]](https://github.com/tahtaciburak/CyAnnuaire)
+
+</div>
 
 
 <!-- ROADMAP -->
@@ -139,6 +150,6 @@ Project Link: [https://github.com/tahtaciburak/CyAnnuaire](https://github.com/ta
 [license-url]: https://github.com/tahtaciburak/CyAnnuaire/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tahtaciburak
-[product-screenshot]: images/screenshot.png
+[product-ss]: img/ss1.jpeg
 [product-scheme]: img/scheme.png
 [logo]: img/logo.png
